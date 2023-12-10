@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "5d29188f302abdc0",
+        "id": "4b0f4abc8df26eae",
         "type": "tabs",
         "children": [
           {
-            "id": "8ef3a3979a4bf820",
+            "id": "60c483fdbdf0722f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Events/Исцеление охотника.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Events/Исцеление охотника.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Events/Исцеление охотника.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -113,9 +107,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Events/Исцеление охотника.md"
-              }
+              "state": {}
             }
           },
           {
@@ -145,37 +137,38 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1111f904a3a15c1",
+  "active": "60c483fdbdf0722f",
   "lastOpenFiles": [
-    "Sessions/Сессия3.md",
-    "Events/Исцеление охотника.md",
-    "Characters/Monsters/Чудище Гудбери.md",
-    "Characters/Monsters",
-    "Untitled",
-    "Events",
-    "Characters/NPC/Староста Освин.md",
-    "Characters/NPC/Сигмунд(рыцарь Пейлора).md",
-    "Characters/Main/Анджело.md",
-    "Characters/NPC/Лорд Аленвайзер.md",
-    "Characters/NPC/Клаккерторп.md",
-    "Sessions/Сессия1.md",
-    "Sessions/Сессия2.md",
+    "Sessions/Сессия7.md",
     "Characters/NPC/Нори.md",
-    "Locations/Cities/Гудберри.md",
-    "Characters/NPC/Эрик-охотник.md",
-    "Анжело.md",
-    "Characters/NPC/Илфрид(обгоревший незнакомец).md",
-    "Characters/NPC/Зоря(жена Эрика-охотника).md",
-    "Characters/Test1121.md",
-    "Characters/Main/Приключенцы.md",
-    "Characters/NPC/Ведьма Нана.md",
-    "Characters/NPC/Untitled.md",
-    "Characters/NPC/Горм(команда Конрада).md",
+    "Sessions/Сессия6.md",
+    "Characters/NPC/Лео(Незнакомец).md",
+    "Organizations/Синие Змеи.md",
+    "Organizations/Церковь Алеи.md",
+    "Characters/NPC/Радим.md",
+    "Characters/NPC/Герцог Ингемар.md",
+    "Organizations/Команда Конрада.md",
+    "Organizations/Классическая академия.md",
+    "Organizations/Гильдия кузнецов.md",
+    "Characters/NPC/Рыжий Эрик.md",
+    "General/Historical figures",
+    "General",
+    "Characters/NPC/Эгвин.md",
+    "General/Ищейки.md",
+    "Characters/Main/Анджело.md",
+    "General/Historical figures/Святой Аледор.md",
+    "Locations/Dungeons/D1.md",
+    "Locations/Cities/Дубы.md",
+    "Characters/NPC/Паладин Эрвин.md",
     "Characters/Main/Ерев'ан.md",
-    "Characters/NPC/Купец Славомир.md",
-    "Characters/NPC/Люба.md",
-    "Characters/NPC/Конрад.md",
-    "Characters/NPC/Карл(команда Конрада).md",
+    "Locations/Cities/Привязь.md",
+    "Characters/NPC/Untitled.md",
+    "Sessions/Сессия5.md",
+    "Events/Встреча с котом.md",
+    "Characters/NPC/Храфна Блейксдоттир.md",
+    "Locations/Cities/Березовый Холм.md",
+    "Characters/Monsters",
+    "Events",
     "Books",
     "Untitled.canvas",
     "Other",
@@ -183,7 +176,6 @@
     "Sessions",
     "Characters/NPC",
     "Characters/Main",
-    "Locations/Monuments",
     "Untitled 1.canvas",
     "Untitled 2.canvas"
   ]
