@@ -18,8 +18,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "081740d4faa3661b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Readme.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Locations/Cities/Остров.md",
+                "file": "Readme.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Locations/Cities/Остров.md",
+                "file": "Readme.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -114,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Locations/Cities/Остров.md"
+                "file": "Readme.md"
               }
             }
           },
@@ -145,10 +158,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f1111f904a3a15c1",
+  "active": "081740d4faa3661b",
   "lastOpenFiles": [
-    "Sessions/Сессия40.md",
     "Locations/Cities/Остров.md",
+    "Readme.md",
+    "Sessions/Сессия40.md",
     "Sessions/Сессия12.md",
     "Characters/NPC/Богдан(староста Клёнов).md",
     "Characters/NPC/Вшеслав(священик).md",
@@ -172,7 +186,6 @@
     "Locations/Cities/Клёны.md",
     "2023-12-16.md",
     "Characters/NPC/Уве.md",
-    "Organizations/Классическая академия.md",
     "General/Historical figures",
     "General",
     "Characters/Monsters",
