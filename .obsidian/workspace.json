@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4b0f4abc8df26eae",
+        "id": "db26e2eeb2328fb7",
         "type": "tabs",
         "children": [
           {
-            "id": "60c483fdbdf0722f",
+            "id": "4064af3ec2d2368c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Locations/Cities/Остров.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Locations/Cities/Остров.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Locations/Cities/Остров.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -107,7 +113,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Locations/Cities/Остров.md"
+              }
             }
           },
           {
@@ -137,36 +145,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "60c483fdbdf0722f",
+  "active": "f1111f904a3a15c1",
   "lastOpenFiles": [
-    "Sessions/Сессия7.md",
-    "Characters/NPC/Нори.md",
-    "Sessions/Сессия6.md",
-    "Characters/NPC/Лео(Незнакомец).md",
-    "Organizations/Синие Змеи.md",
-    "Organizations/Церковь Алеи.md",
-    "Characters/NPC/Радим.md",
-    "Characters/NPC/Герцог Ингемар.md",
-    "Organizations/Команда Конрада.md",
+    "Sessions/Сессия40.md",
+    "Locations/Cities/Остров.md",
+    "Sessions/Сессия12.md",
+    "Characters/NPC/Богдан(староста Клёнов).md",
+    "Characters/NPC/Вшеслав(священик).md",
+    "Locations/Cities/Гудберри.md",
+    "Locations/Cities/Эльм.md",
+    "Characters/NPC/Освин(охотник).md",
+    "Characters/NPC/Горм(неудачник).md",
+    "Characters/NPC/Виу Зик Цап(неудачник).md",
+    "Organizations/Алое Братство.md",
+    "General/Семь Великих Домов.md",
+    "Organizations/Орден Пречистой Девы.md",
+    "Characters/NPC/Альдвин(магистр ордена).md",
+    "Characters/NPC/Мирослав Ягода.md",
+    "Characters/NPC/Улрик.md",
+    "Characters/NPC/Вали(оборотень-сосед).md",
+    "Characters/Main/Луций.md",
+    "Locations/Cities/Дубы.md",
+    "Characters/NPC/Стэн(волшебник).md",
+    "Characters/NPC/Алоиза Петри Адалмунд.md",
+    "Characters/NPC/Итис.md",
+    "Locations/Cities/Клёны.md",
+    "2023-12-16.md",
+    "Characters/NPC/Уве.md",
     "Organizations/Классическая академия.md",
-    "Organizations/Гильдия кузнецов.md",
-    "Characters/NPC/Рыжий Эрик.md",
     "General/Historical figures",
     "General",
-    "Characters/NPC/Эгвин.md",
-    "General/Ищейки.md",
-    "Characters/Main/Анджело.md",
-    "General/Historical figures/Святой Аледор.md",
-    "Locations/Dungeons/D1.md",
-    "Locations/Cities/Дубы.md",
-    "Characters/NPC/Паладин Эрвин.md",
-    "Characters/Main/Ерев'ан.md",
-    "Locations/Cities/Привязь.md",
-    "Characters/NPC/Untitled.md",
-    "Sessions/Сессия5.md",
-    "Events/Встреча с котом.md",
-    "Characters/NPC/Храфна Блейксдоттир.md",
-    "Locations/Cities/Березовый Холм.md",
     "Characters/Monsters",
     "Events",
     "Books",
